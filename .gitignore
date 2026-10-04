@@ -1,0 +1,28 @@
+# Private authentication and local agent settings
+*credentials*.json
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+.claude/settings.local.json
+
+# Downloaded Lean dependencies and generated build output
+.lake/
+.elan/
+*.olean
+*.ilean
+*.trace
+*.log
+
+# Temporary scratch files
+tmp/
+tmp_*
+
+# Editor and operating system files
+.DS_Store
+.vscode/
+.idea/
+*.swp
+
+# Track lean-toolchain, lakefile.lean or lakefile.toml, and lake-manifest.json.
