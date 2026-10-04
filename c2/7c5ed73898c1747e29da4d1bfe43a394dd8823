@@ -1,0 +1,29 @@
+.gitignore
+  s_8ccf68dcf47706::t_e8ee03eafb60f6 1-28
+AGENTS.md
+  s_8ccf68dcf47706::t_672cd2a1202354 1-25
+CLAUDE.md
+  s_8ccf68dcf47706::t_3a1d0c8327ab78 1-6
+README.md
+  s_8ccf68dcf47706::t_b45e58dbcb23b1 1-47
+docs/cloud-setup.md
+  s_8ccf68dcf47706::t_377e76a11b78c4 1-59
+workspaces/README.md
+  s_8ccf68dcf47706::t_dbc4efcf6aa176 1-26
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "c27c5ed73898c1747e29da4d1bfe43a394dd8823",
+  "prompts": {},
+  "sessions": {
+    "s_8ccf68dcf47706": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "8d6644a0-985c-435f-b9c1-05cc01028e39",
+        "model": "grok-4.7"
+      },
+      "human_author": "Daniel Moon <32221114+moona3k@users.noreply.github.com>"
+    }
+  }
+}
