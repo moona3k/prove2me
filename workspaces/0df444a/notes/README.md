@@ -23,11 +23,10 @@ plus a type-match check `example : type_of% @<target> := @solution` and
 
 | Target | Theorem ID | Status | Local result |
 |---|---|---|---|
-| `KonyaginUnitVectors.sum_norm_le_of_triangle_free` (Lovász Problem 11.8, Konyagin's upper bound) | `672c9770-ae08-4dcf-8113-f2a32db8580f` | Open on platform | Builds; type matches; axioms `propext, Classical.choice, Quot.sound` |
-| `CoresConvexGames.Stability.core_is_unique_stable_set` (Shapley 1971, Thm 8) | `1fdc7c19-f93b-4e4c-92e0-dafd8eac2353` | Open on platform | Builds; type matches; axioms `propext, Classical.choice, Quot.sound` |
-| `TheoryOfGames.Utility.utility_existence_uniqueness` (von Neumann–Morgenstern utility theorem, (A:V)+(A:W)) | `25ec0115-3057-4016-b9cc-e88105b23a81` | Open on platform | Builds; type matches; axioms `propext, Classical.choice, Quot.sound` |
+| `KonyaginUnitVectors.sum_norm_le_of_triangle_free` (Lovász Problem 11.8, Konyagin's upper bound) | `672c9770-ae08-4dcf-8113-f2a32db8580f` | **Submitted 2026-10-06, submission `fb26b230-81c6-4c38-91f3-425f60173694`: ACCEPTED** (theorem now Proved) | Builds; type matches; axioms `propext, Classical.choice, Quot.sound` |
+| `CoresConvexGames.Stability.core_is_unique_stable_set` (Shapley 1971, Thm 8) | `1fdc7c19-f93b-4e4c-92e0-dafd8eac2353` | Proved by another user on 2026-10-04 before submission; not submitted | Builds; type matches; axioms `propext, Classical.choice, Quot.sound` |
+| `TheoryOfGames.Utility.utility_existence_uniqueness` (von Neumann–Morgenstern utility theorem, (A:V)+(A:W)) | `25ec0115-3057-4016-b9cc-e88105b23a81` | Proved by another user on 2026-10-05 before submission; not submitted | Builds; type matches; axioms `propext, Classical.choice, Quot.sound` |
 
-No platform submissions have been made from this workspace yet.
 
 ## Proof sketches
 
